@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/drawable-v24_rockshatter.png.flat",
+        "source": "com.example.matchgame.app-main-31:/drawable-v24/rockshatter.png"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "com.example.matchgame.app-main-31:/drawable/ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/drawable-v24_fireball.png.flat",
+        "source": "com.example.matchgame.app-main-31:/drawable-v24/fireball.png"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/drawable-v24_firestorm.png.flat",
+        "source": "com.example.matchgame.app-main-31:/drawable-v24/firestorm.png"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.matchgame.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.matchgame.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.matchgame.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/raw_final_fantasy_fanfare.mp3.flat",
+        "source": "com.example.matchgame.app-main-31:/raw/final_fantasy_fanfare.mp3"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/drawable-v24_question.png.flat",
+        "source": "com.example.matchgame.app-main-31:/drawable-v24/question.png"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.matchgame.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/layout_image.xml.flat",
+        "source": "com.example.matchgame.app-main-31:/layout/image.xml"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.matchgame.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.matchgame.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/drawable-v24_iceshield.png.flat",
+        "source": "com.example.matchgame.app-main-31:/drawable-v24/iceshield.png"
+    },
+    {
+        "merged": "com.example.matchgame.app-merged_res-29:/drawable-v24_hailstorm.png.flat",
+        "source": "com.example.matchgame.app-main-31:/drawable-v24/hailstorm.png"
+    }
+]
